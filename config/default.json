@@ -1,0 +1,6 @@
+{
+    "port": 5000, 
+    "jwtSecret": "qwerty 123 123",
+    "mongoUri": "mongodb+srv://armen:qwerty123@cluster0.az61d.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
