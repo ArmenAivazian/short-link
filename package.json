@@ -4,7 +4,7 @@
   "description": "short link creator",
   "main": "app.js",
   "scripts": {
-    "start": "npm run server",
+    "start": "npm run start --prefix client",
     "server": "nodemon app.js",
     "client": "npm run start --prefix client",
     "client:install": "npm install --prefix client",
